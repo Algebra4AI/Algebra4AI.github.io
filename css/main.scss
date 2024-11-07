@@ -1,0 +1,136 @@
+---
+# front matter
+---
+
+/* basic color customizations */
+$border-color: #424242;
+$link-color: #2a7ae2 !default;
+$active-color: #2a7ae2;
+$text-color:#111 !default;
+$headings-color: #111;
+$background-color: #fdfdfd !default;
+
+/* font base */ 
+@font-face {
+  font-family: 'Open Sans';
+  src:  url('https://fonts.gstatic.com/s/opensans/v13/DXI1ORHCpsQm3Vp6mXoaTaaRobkAwv3vxw3jMhVENGA.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Source Code Pro';
+  src:  url('fonts/sourcecodepro-regular-webfont.woff') format('woff');
+}
+$base-font-family: 'Open Sans', Helvetica, Arial, sans-serif !default;
+$code-font-family: 'Source Code Pro', monospace;
+
+/* layout base */
+$base-font-size:   16px !default;
+$base-font-weight: 400 !default;
+$small-font-size:  $base-font-size * 0.875 !default;
+$base-line-height: 1.5 !default;
+
+$spacing-unit:     30px !default;
+
+
+$grey-color:       #828282 !default;
+$grey-color-light: lighten($grey-color, 40%) !default;
+$grey-color-dark:  darken($grey-color, 25%) !default;
+
+// Width of the content area
+$content-width:    1000px !default;
+
+$on-palm:          600px !default;
+$on-laptop:        800px !default;
+
+// Use media queries like this:
+// @include media-query($on-palm) {
+//   .wrapper {
+//     padding-right: $spacing-unit / 2;
+//     padding-left: $spacing-unit / 2;
+//   }
+// }
+@mixin media-query($device) {
+  @media screen and (max-width: $device) {
+    @content;
+  }
+}
+
+// Import partials.
+@import
+  "base",
+  "layout",
+  "custom"
+;
+
+h1, h2 {
+  font-weight: 900;
+}
+
+cite {
+  color:orangered;
+  font-style: italic;
+}
+
+div #organizers {
+  display: grid;
+  width: 100%;
+  grid-template-columns: repeat(4, 1fr);
+  grid-column-gap: 50px;
+  margin-bottom: 40px;
+}
+
+div.organizer{
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  overflow: hidden;
+}
+
+div.organizer-name{
+  width: 100%;
+  grid-column: 1;
+  display: flex;
+}
+
+div.organizer-uni{
+  width: 100%;
+  grid-column: 1;
+  display: flex;
+}
+
+div #speakers {
+  display: grid;
+  width: 100%;
+  grid-template-columns: repeat(4, 1fr);
+  grid-column-gap: 50px;
+  margin-bottom: 40px;
+}
+
+div.speaker{
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  overflow: hidden;
+}
+
+div.speaker-name{
+  width: 100%;
+  grid-column: 1;
+  display: flex;
+}
+
+div.speaker-uni{
+  width: 100%;
+  grid-column: 1;
+  display: flex;
+}
+
+img.avatar{
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -o-border-radius: 50%;
+  -ms-border-radius: 50%;
+  object-fit: cover;
+}
