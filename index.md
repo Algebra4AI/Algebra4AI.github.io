@@ -6,7 +6,7 @@ title: Home
 
 This tutorial will <b><i>bridge the two often separate communities of tensor factorizations and circuit representations</i></b>, which investigate concepts that are intimately related.
 
-By connecting these fields, we highlight <b><i>a series of opportunities that can benefit both communities<b><i>.
+By connecting these fields, we highlight <b><i>a series of opportunities that can benefit both communities</i></b>.
 We will draw theoretical as well as practical connections, e.g., in <cite>efficient probabilistic inference</cite>, <cite>reliable neuro-symbolic AI</cite> and <cite>scalable statistical modeling</cite>.
 Second, we will introduce  a modular "Lego block" approach to build tensorized circuit architectures in a unified way. 
 This, in turn, allows us to systematically construct and explore various circuit and tensor factorization models while maintaining tractability.
