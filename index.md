@@ -24,7 +24,7 @@ At the end of it, the audience will learn about the state-of-the-art in represen
 
 # Materials
 
-Stay tuned!
+You can find the slides of the tutorial <a href="files/slides.pdf">here</a>.
 
 # Speakers
 
