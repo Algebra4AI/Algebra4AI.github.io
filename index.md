@@ -20,9 +20,6 @@ At the end of it, the audience will learn about the state-of-the-art in represen
 
 ✨ Check out also the Workshop on <a href="https://april-tools.github.io/colorai/">Connecting Low-Rank Representations</a> in AI at AAAI-25! ✨
 
-# News
-- **[07th Nov 2024]** Website is on! 
-
 # Materials
 
 You can find the slides of the tutorial <a href="files/slides.pdf">here</a>.
