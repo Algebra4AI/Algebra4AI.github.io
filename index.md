@@ -4,6 +4,8 @@ title: Home
 
 {% include figure.html img="from-tf-to-circuits.png" alt="tutorial logo" width="80%" %}
 
+<b>When and where?</b> Tuesday, February 25, 4:15pm - 6:00pm EST, Room 117.
+
 This tutorial will <b><i>bridge the two often separate communities of tensor factorizations and circuit representations</i></b>, which investigate concepts that are intimately related.
 
 By connecting these fields, we highlight <b><i>a series of opportunities that can benefit both communities</i></b>.
@@ -14,17 +16,13 @@ At the end of it, the audience will learn about the state-of-the-art in represen
 
 <b>Outline.</b> The tutorial will start from classical tensor factorizations and extend them to a hierarchical setting, where the connection to circuit representations will be highlighted. Then, we will list several opportunities by bridging the two communities, such as using hierarchical tensor factorizations for neuro-symbolic inference or exploiting algorithms from the tensor network communities to learn circuits. Lastly, we will showcase how one can understand the many recent algorithms and representations to learn circuits from data as hierarchical tensor factorizations.
 
-
 <b>Prerequisite knowledge.</b>  The tutorial requires basic knowledge of machine learning, probability theory and linear algebra at the level of an introductory course.  All other required notions will be provided during the tutorial.
 
 ✨ Check out also the Workshop on <a href="https://april-tools.github.io/colorai/">Connecting Low-Rank Representations</a> in AI at AAAI-25! ✨
 
-# News
-- **[07th Nov 2024]** Website is on! 
-
 # Materials
 
-Stay tuned!
+You can find the slides of the tutorial <a href="files/slides.pdf">here</a>.
 
 # Speakers
 
