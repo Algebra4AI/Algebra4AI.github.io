@@ -8,7 +8,7 @@
 
 # Site settings
 # title appears in the header
-title: AAAI'25 tutorial
+title: IJCAI'25 tutorial
 # description and keywords for meta tags
 description: "The AAAI'25 tutorial on Tensor Factorizations + Probabilistic Circuits"
 keywords: "AI, ML, deep learning, low-rank, factorization, circuits, tensors, networks"
