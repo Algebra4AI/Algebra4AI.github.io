@@ -11,6 +11,9 @@ $headings-color: #111;
 $background-color: #fdfdfd !default;
 
 /* font base */ 
+p {
+  text-align: justify;
+}
 @font-face {
   font-family: 'Open Sans';
   src:  url('https://fonts.gstatic.com/s/opensans/v13/DXI1ORHCpsQm3Vp6mXoaTaaRobkAwv3vxw3jMhVENGA.woff2') format('woff2');
