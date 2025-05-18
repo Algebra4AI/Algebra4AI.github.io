@@ -16,9 +16,13 @@ Second, we will introduce  a modular "Lego block" approach to build tensorized c
 This, in turn, allows us to systematically construct and explore various circuit and tensor factorization models while maintaining tractability.
 At the end of it, the audience will learn about the state-of-the-art in representing, learning and scaling tensor factorizations and circuits. -->
 
-<b>Outline.</b> TBD
+<b>Outline.</b> 
 
-<b>Prerequisite knowledge.</b>  TBD
+TBD
+
+<b>Prerequisite knowledge.</b>  
+
+TBD
 
 <!-- ✨ Check out also the Workshop on <a href="https://april-tools.github.io/colorai/">Connecting Low-Rank Representations</a> in AI at ICJAI-25! ✨ -->
 
