@@ -30,7 +30,8 @@ You can find the slides of the tutorial <a href="files/slides.pdf">here</a>.
     <div class="speaker">
         <!-- <img class="avatar" src="https://loreloc.github.io/static/propic.jpg"><br/> -->
         <div class="speaker-name">
-        <b><a href="https://loreloc.github.io/">Yuka Hashimotot</a></b></div>
+        <!-- <b><a href="https://loreloc.github.io/">Yuka Hashimoto</a></b></div> -->
+        <b>Yuka Hashimoto</b></div>
         <div class="speaker-uni">
         <i> University of Edinburgh</i>
         </div>
@@ -38,7 +39,8 @@ You can find the slides of the tutorial <a href="files/slides.pdf">here</a>.
     <div class="speaker">
         <!-- <img class="avatar" src="https://april-tools.github.io/images/people/aver.jpg"><br/> -->
         <div class="speaker-name">
-        <b><a href="https://april-tools.github.io/">Eren Mehmet Kiralt</a></b></div>
+        <!-- <b><a href="https://april-tools.github.io/">Eren Mehmet Kiralt</a></b></div> -->
+        <b>Eren Mehmet Kiralt</b></div>
         <div class="speaker-uni">
         <i> University of Edinburgh</i>
         </div>
@@ -46,7 +48,8 @@ You can find the slides of the tutorial <a href="files/slides.pdf">here</a>.
     <div class="speaker">
         <!-- <img class="avatar" src="https://april-tools.github.io/images/people/aver.jpg"><br/> -->
         <div class="speaker-name">
-        <b><a href="https://april-tools.github.io/">Chao Li</a></b></div>
+        <!-- <b><a href="https://april-tools.github.io/">Chao Li</a></b></div> -->
+        <b>Chao Li</b></div>
         <div class="speaker-uni">
         <i> University of Edinburgh</i>
         </div>
@@ -54,7 +57,8 @@ You can find the slides of the tutorial <a href="files/slides.pdf">here</a>.
     <div class="speaker">
         <!-- <img class="avatar" src="https://april-tools.github.io/images/people/aver.jpg"><br/> -->
         <div class="speaker-name">
-        <b><a href="https://april-tools.github.io/">Yivan Zhang</a></b></div>
+        <!-- <b><a href="https://april-tools.github.io/">Yivan Zhang</a></b></div> -->
+        <b>Yivan Zhang</b></div>
         <div class="speaker-uni">
         <i> University of Edinburgh</i>
         </div>
