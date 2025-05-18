@@ -14,9 +14,9 @@ description: "The AAAI'25 tutorial on Tensor Factorizations + Probabilistic Circ
 keywords: "AI, ML, deep learning, low-rank, factorization, circuits, tensors, networks"
 
 # author settings for cc-by, appears in the footer
-author: antonio vergari
-pub_year: 2024
-github_username: april-tools
+# author: antonio vergari
+# pub_year: 2024
+# github_username: april-tools
 
 # add the full url for the github repository
 repo: "https://github.com/april-tools/aaai25-tf-pc-tutorial"
