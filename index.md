@@ -43,9 +43,9 @@ TBD
         <!-- <img class="avatar" src="https://april-tools.github.io/images/people/aver.jpg"><br/> -->
         <div class="speaker-name">
         <!-- <b><a href="https://april-tools.github.io/">Eren Mehmet Kiralt</a></b></div> -->
-        <b>Eren Mehmet Kiralt</b></div>
+        <b>Eren Mehmet Kiral</b></div>
         <div class="speaker-uni">
-        <i> Keio University</i>
+        <i> Keio University, RIKEN-AIP</i>
         </div>
     </div>
     <div class="speaker">
