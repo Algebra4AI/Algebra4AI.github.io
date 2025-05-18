@@ -2,7 +2,7 @@
 title: Home
 ---
 
-{% include figure.html img="from-tf-to-circuits.png" alt="tutorial logo" width="80%" %}
+{% include figure.html img="WechatIMG9.jpg" alt="tutorial logo" width="80%" %}
 
 <b>When and where?</b> Tuesday, February 25, 4:15pm - 6:00pm EST, Room 117.
 
@@ -28,17 +28,33 @@ You can find the slides of the tutorial <a href="files/slides.pdf">here</a>.
 
 <div id="speakers">
     <div class="speaker">
-        <img class="avatar" src="https://loreloc.github.io/static/propic.jpg"><br/>
+        <!-- <img class="avatar" src="https://loreloc.github.io/static/propic.jpg"><br/> -->
         <div class="speaker-name">
-        <b><a href="https://loreloc.github.io/">Lorenzo Loconte</a></b></div>
+        <b><a href="https://loreloc.github.io/">Yuka Hashimotot</a></b></div>
         <div class="speaker-uni">
         <i> University of Edinburgh</i>
         </div>
     </div>
     <div class="speaker">
-        <img class="avatar" src="https://april-tools.github.io/images/people/aver.jpg"><br/>
+        <!-- <img class="avatar" src="https://april-tools.github.io/images/people/aver.jpg"><br/> -->
         <div class="speaker-name">
-        <b><a href="https://april-tools.github.io/">Antonio Vergari</a></b></div>
+        <b><a href="https://april-tools.github.io/">Eren Mehmet Kiralt</a></b></div>
+        <div class="speaker-uni">
+        <i> University of Edinburgh</i>
+        </div>
+    </div>
+    <div class="speaker">
+        <!-- <img class="avatar" src="https://april-tools.github.io/images/people/aver.jpg"><br/> -->
+        <div class="speaker-name">
+        <b><a href="https://april-tools.github.io/">Chao Li</a></b></div>
+        <div class="speaker-uni">
+        <i> University of Edinburgh</i>
+        </div>
+    </div>
+    <div class="speaker">
+        <!-- <img class="avatar" src="https://april-tools.github.io/images/people/aver.jpg"><br/> -->
+        <div class="speaker-name">
+        <b><a href="https://april-tools.github.io/">Yivan Zhang</a></b></div>
         <div class="speaker-uni">
         <i> University of Edinburgh</i>
         </div>
@@ -53,4 +69,4 @@ You can find the slides of the tutorial <a href="files/slides.pdf">here</a>.
 - Choi et al. 2020 - [Probabilistic Circuits: A Unifying Framework for Tractable Probabilistic Models](https://yoojungchoi.github.io/files/ProbCirc20.pdf)
 - Ahmed et al. 2022 - [Semantic Probabilistic Layers for Neuro-Symbolic Learning](https://proceedings.neurips.cc/paper_files/paper/2022/hash/c182ec594f38926b7fcb827635b9a8f4-Abstract-Conference.html)
 
-> Last build date: {{ site.time | date: "%Y-%m-%d" }}.
+<!-- > Last build date: {{ site.time | date: "%Y-%m-%d" }}. -->
