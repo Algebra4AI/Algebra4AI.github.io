@@ -37,7 +37,7 @@ TBD
 <div id="speakers">
     <div class="speaker">
         <!-- <img class="avatar" src="https://loreloc.github.io/stxatic/propic.jpg"><br/> -->
-        <img class="avatar" src="YukaHashimoto.png"><br/>
+        <img class="avatar" src="https://www.rd.ntt/_assets/img/organization/researcher/special/s_083.jpg"><br/>
         <div class="speaker-name">
         <!-- <b><a href="https://www.rd.ntt/e/organization/researcher/special/s_083.html">Yuka Hashimoto</a></b></div> -->
         <b>Yuka Hashimoto</b></div>
