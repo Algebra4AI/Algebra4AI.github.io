@@ -37,7 +37,7 @@ TBD
     <div class="speaker">
         <!-- <img class="avatar" src="https://loreloc.github.io/static/propic.jpg"><br/> -->
         <div class="speaker-name">
-        <!-- <b><a href="https://loreloc.github.io/">Yuka Hashimoto</a></b></div> -->
+        <b><a href="https://www.rd.ntt/e/organization/researcher/special/s_083.html">Yuka Hashimoto</a></b></div>
         <b>Yuka Hashimoto</b></div>
         <div class="speaker-uni">
         <i> NTT Corporation, RIKEN-AIP</i>
@@ -81,7 +81,7 @@ Bio:
 [**Yuka Hashimoto**](https://www.rd.ntt/e/organization/researcher/special/s_083.html) is a Distinguished Researcher at Nippon Telegraph and Telephone Corporation (NTT), Tokyo, Japan. Additionally, she holds a position as a Visiting Scientist at RIKEN Center for Advanced Intelligence Project (AIP) and Visiting Associate Professor at Kanazawa University. She obtained her Ph.D. in science in March 2022.
 Her research interests lie in the intersection of mathematical theory, particularly operator and operator algebra theories, with machine learning methods such as kernel methods and neural networks.
 She recentry published a position paper that explores the applicability of C*-algebra to machine learning:
- - _$C^*$-Algebraic Machine Learning --- Moving in a New Direction_ (Hasihmoto, Ikeda, and Kadri, ICML 2024)
+ - _C*-Algebraic Machine Learning --- Moving in a New Direction_ (Hasihmoto, Ikeda, and Kadri, ICML 2024)
 
 ## 1. Title: Algebraic Structures in Representation Learning and Reinforcement Learning
 
