@@ -72,7 +72,7 @@ TBD
     </div>
 </div>
 
-## Title: $C^\*$-algebra for machine learning
+## Title: $C^\* -algebra for machine learning
 
 Abstract:
 We explore the applicability of $C^*$-algebra to machine learning methods. We first review fundamental notions regarding $C^*$-algebra and how it can be related to machine learning methods. We then show that $C^*$-algebraic techniques are useful in analyzing structured data such as functional data and image data by focusing on kernel methods and neural networks. The theory of $C^*$-algebras enables us to go beyond existing methods by using tools related to functions and operators.
