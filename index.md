@@ -55,7 +55,7 @@ TBD
         </div>
     </div>
     <div class="speaker">
-        <img class="avatar" src="https://chaoliatriken.github.io/images/chaoli.jpg><br/>
+        <img class="avatar" src="https://chaoliatriken.github.io/images/chaoli.jpg"><br/>
         <div class="speaker-name">
         <!-- <b><a href="https://april-tools.github.io/">Chao Li</a></b></div> -->
         <b>Chao Li</b></div>
