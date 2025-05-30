@@ -83,7 +83,7 @@ Her research interests lie in the intersection of mathematical theory, particula
 She recentry published a position paper that explores the applicability of C*-algebra to machine learning:
  - _$C^*$-Algebraic Machine Learning --- Moving in a New Direction_ (Hasihmoto, Ikeda, and Kadri, ICML 2024)
 
- ## 1. Title: Algebraic Structures in Representation Learning and Reinforcement Learning
+## 1. Title: Algebraic Structures in Representation Learning and Reinforcement Learning
 
 ---
 
