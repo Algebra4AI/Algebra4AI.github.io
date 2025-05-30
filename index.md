@@ -80,7 +80,7 @@ TBD
 
 ### **Abstract:**
 
-We explore the applicability of C*-algebra to machine learning methods. We first review fundamental notions regarding C*-algebra and how it can be related to machine learning methods. We then show that C*-algebraic techniques are useful in analyzing structured data such as functional data and image data by focusing on kernel methods and neural networks. The theory of C*-algebras enables us to go beyond existing methods by using tools related to functions and operators.
+We explore the applicability of C\*-algebra to machine learning methods. We first review fundamental notions regarding C\*-algebra and how it can be related to machine learning methods. We then show that C*-algebraic techniques are useful in analyzing structured data such as functional data and image data by focusing on kernel methods and neural networks. The theory of C\*-algebras enables us to go beyond existing methods by using tools related to functions and operators.
 
 ### **Speaker Bio:**
 [**Yuka Hashimoto**](https://www.rd.ntt/e/organization/researcher/special/s_083.html) is a Distinguished Researcher at Nippon Telegraph and Telephone Corporation (NTT), Tokyo, Japan. Additionally, she holds a position as a Visiting Scientist at RIKEN Center for Advanced Intelligence Project (AIP) and Visiting Associate Professor at Kanazawa University. She obtained her Ph.D. in science in March 2022.
