@@ -64,7 +64,7 @@ TBD
         </div>
     </div>
     <div class="speaker">
-        <!-- <img class="avatar" src="https://april-tools.github.io/images/people/aver.jpg"><br/> -->
+        <img class="avatar" src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=Q7S9kh4AAAAJ&citpid=1"><br/>
         <div class="speaker-name">
         <!-- <b><a href="https://april-tools.github.io/">Yivan Zhang</a></b></div> -->
         <b>Yivan Zhang</b></div>
