@@ -2,7 +2,7 @@
 title: Home
 ---
 
-{% include figure.html img="WechatIMG9.jpg" alt="tutorial logo" width="80%" %}
+{% include figure.html img="image.png" alt="tutorial logo" width="80%" %}
 
 <b>When and where?</b> 
 
