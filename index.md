@@ -34,7 +34,7 @@ TBD
 <!-- # Speakers -->
 # Presentations and Speaker Biographies
 
-<!-- <div id="speakers">
+<div id="speakers">
     <div class="speaker">
         <!-- <img class="avatar" src="https://loreloc.github.io/static/propic.jpg"><br/> -->
         <div class="speaker-name">
@@ -71,14 +71,14 @@ TBD
         <i> RIKEN-AIP</i>
         </div>
     </div>
-</div> -->
+</div>
 
 ## Title: C*-algebra for machine learning
 
 ### Abstract:
 We explore the applicability of C*-algebra to machine learning methods. We first review fundamental notions regarding C*-algebra and how it can be related to machine learning methods. We then show that C*-algebraic techniques are useful in analyzing structured data such as functional data and image data by focusing on kernel methods and neural networks. The theory of C*-algebras enables us to go beyond existing methods by using tools related to functions and operators.
 
-### Bio:
+### Speaker Bio:
 [**Yuka Hashimoto**](https://www.rd.ntt/e/organization/researcher/special/s_083.html) is a Distinguished Researcher at Nippon Telegraph and Telephone Corporation (NTT), Tokyo, Japan. Additionally, she holds a position as a Visiting Scientist at RIKEN Center for Advanced Intelligence Project (AIP) and Visiting Associate Professor at Kanazawa University. She obtained her Ph.D. in science in March 2022.
 Her research interests lie in the intersection of mathematical theory, particularly operator and operator algebra theories, with machine learning methods such as kernel methods and neural networks.
 She recentry published a position paper that explores the applicability of C*-algebra to machine learning:
@@ -96,7 +96,7 @@ We begin with an introduction to basic category-theoretic concepts and diagramma
 The tutorial aims to bridge abstract mathematical tools and concrete machine learning challenges, offering a unified language for modularity, generalization, and interpretability.
 
 
-### Bio:
+### Speaker Bio:
 
 [**Yivan Zhang**](https://yivan.xyz) is an assistant professor at the University of Tokyo and a visiting scientist at the RIKEN Center for Advanced Intelligence Project (AIP). He received his Ph.D. in computer science from the University of Tokyo in 2024.
 
@@ -112,7 +112,7 @@ His research applies **algebra, logic, and category theory** to develop theoreti
 We introduce basics of Lie Groups, Statistical Manifolds to introduce how they can be used to learn parameter distributions on manifolds. On top of a specific application of Lie group methods, we will also give the general philosophy and the intuition behind using such mathematical tools so that the participants can use them in their own work. 
 BIO: I think the bio could be the same as in the application:
 
-### Bio:
+### Speaker Bio:
  Eren Mehmet Kıral received his Ph.D. in mathematics from Brown University, specializing in analytic number theory, particularly the distribution of prime numbers via the Riemann zeta function and related analytic techniques. He has taught university-level courses at Brown and Texas A\&M University on subjects including calculus, linear algebra, and cryptography. He also regularly teaches week-long crash courses at the Mathematics Village in İzmir, Turkey. A shorter tutorial on cryptography he gave at RIKEN is available at: https://github.com/ekiral/cryptography. As a RIKEN Special Postdoctoral Researcher (2020--2023), his research expanded into machine learning, with a focus on incorporating Lie group symmetries into learning algorithms. His work “Lie Group Bayesian Learning Rule” (AISTATS 2023) explores learning distributions on parameter spaces via Lie group actions. He is currently a postdoctoral researcher at Keio University.
 Homepage: https://ekiral.github.io
 
