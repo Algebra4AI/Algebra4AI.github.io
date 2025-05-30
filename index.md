@@ -73,6 +73,9 @@ TBD
     </div>
 </div>
 
+---
+
+
 ## Title: C*-algebra for machine learning
 
 ### **Abstract:**
