@@ -25,7 +25,7 @@ This tutorial explores how advanced algebraic structures—such as C*-algebras, 
 <!-- <b>Prerequisite knowledge.</b>   -->
 # Prerequisite knowledge 
 
-TBD
+This tutorial targets junior AI/ML researchers (particularly students) and practitioners interested in algebraic foundations of AI. Basic background in linear algebra is recommended. No prior knowledge of abstract algebra, topology, or representation theory is required.
 
 <!-- ✨ Check out also the Workshop on <a href="https://april-tools.github.io/colorai/">Connecting Low-Rank Representations</a> in AI at ICJAI-25! ✨ -->
 
