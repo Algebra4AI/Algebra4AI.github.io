@@ -155,7 +155,6 @@ His research applies **algebra, logic, and category theory** to develop theoreti
 
 
 <div id="speakers">
-    <div class="speaker">
     </div>
     <div class="speaker">
         <img class="avatar" src="https://ekiral.github.io/mehmetMoma.jpg"><br/>
