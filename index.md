@@ -100,7 +100,6 @@ His research applies **algebra, logic, and category theory** to develop theoreti
 
 
 <div id="speakers">
-    </div>
     <div class="speaker">
         <img class="avatar" src="https://ekiral.github.io/mehmetMoma.jpg"><br/>
         <div class="speaker-name">
@@ -109,7 +108,7 @@ His research applies **algebra, logic, and category theory** to develop theoreti
         <div class="speaker-uni">
         <i> Keio University, RIKEN-AIP</i>
         </div>
-    <!-- </div> -->
+    </div>
 </div>
 ---
 
