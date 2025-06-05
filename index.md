@@ -4,7 +4,8 @@ title: Home
 
 {% include figure.html img="image.png" alt="tutorial logo" width="80%" %}
 
-<b>When and where?</b> 
+<!-- <b>When and where?</b>  -->
+# When and where?
 
 TBD
 
@@ -16,11 +17,13 @@ Second, we will introduce  a modular "Lego block" approach to build tensorized c
 This, in turn, allows us to systematically construct and explore various circuit and tensor factorization models while maintaining tractability.
 At the end of it, the audience will learn about the state-of-the-art in representing, learning and scaling tensor factorizations and circuits. -->
 
-<b>Outline.</b> 
+<!-- <b>Outline.</b>  -->
+# Outline
 
-TBD
+This tutorial explores how advanced algebraic structures—such as C*-algebras, Lie groups, category theory, and tensor networks—can enhance machine learning by improving model efficiency, interpretability, and generalization. Moving beyond standard linear algebra, we present operator-algebraic tools for analyzing structured data, symmetry-based methods for learning distributions on manifolds, categorical frameworks for representation learning and reinforcement learning, and tensor networks for efficient computation. Designed for AI researchers and practitioners with a solid foundation in linear algebra and ML, the tutorial combines theoretical insights with practical applications, covering recent developments across kernel methods, neural networks, probabilistic modeling, and quantum AI.
 
-<b>Prerequisite knowledge.</b>  
+<!-- <b>Prerequisite knowledge.</b>   -->
+# Prerequisite knowledge 
 
 TBD
 
