@@ -100,7 +100,7 @@ div.organizer-uni{
   display: flex;
 }
 
-div #speakers {
+#speakers {
   display: grid;
   width: 100%;
   grid-template-columns: repeat(4, 1fr);
@@ -124,7 +124,7 @@ div.speaker-name{
 div.speaker-uni{
   width: 100%;
   grid-column: 1;
-  // display: flex;
+  display: flex;
 }
 
 img.avatar{
