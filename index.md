@@ -87,6 +87,7 @@ His research applies **algebra, logic, and category theory** to develop theoreti
 - _A Category-theoretical Meta-analysis of Definitions of Disentanglement_ (Zhang & Sugiyama, ICML 2023)
 - _Enriching Disentanglement: From Logical Definitions to Quantitative Metrics_ (Zhang & Sugiyama, NeurIPS 2024)
 - _Recursive Reward Aggregation_ (Tang et al., RLC 2025)
+
 ---
 
 
