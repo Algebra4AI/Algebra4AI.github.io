@@ -2,10 +2,8 @@
 title: Home
 ---
 
-<!-- {% include figure.html img="image.png" alt="tutorial logo" width="80%" %} -->
-<div style="width:100vw;height:100vh;overflow:hidden;margin:0;">
-  {% include figure.html img="banner.jpg" alt="tutorial logo" width="100%" %}
-</div>
+{% include figure.html img="image.png" alt="tutorial logo" width="80%" %}
+
 <!-- <b>When and where?</b>  -->
 # When and where?
 
