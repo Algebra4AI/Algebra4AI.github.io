@@ -103,7 +103,8 @@ div.organizer-uni{
 div #speakers {
   display: grid;
   width: 100%;
-  grid-template-columns: repeat(4, 1fr);
+  // grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(1, 1fr);
   grid-column-gap: 50px;
   margin-bottom: 40px;
 }
