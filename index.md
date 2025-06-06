@@ -2,7 +2,7 @@
 title: Home
 ---
 
-{% include figure.html img="image.png" alt="tutorial logo" width="80%" %}
+{% include figure.html img="image.png" alt="tutorial logo" width="80%" class="w-screen h-screen object-cover" %}
 
 <!-- <b>When and where?</b>  -->
 # When and where?
