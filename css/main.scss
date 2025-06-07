@@ -130,6 +130,7 @@ div.speaker-uni{
 }
 
 img.avatar{
+  display: flex;
   width: 120px;
   height: 120px;
   border-radius: 50%;
@@ -137,8 +138,8 @@ img.avatar{
   -moz-border-radius: 50%;
   -o-border-radius: 50%;
   -ms-border-radius: 50%;
-  justify-content: center;
   object-fit: cover;
+  justify-content: center;
 }
 
 @media only screen and (max-width: 720px) {
