@@ -106,6 +106,8 @@ div.organizer-uni{
   grid-template-columns: repeat(4, 1fr);
   grid-column-gap: 50px;
   margin-bottom: 40px;
+  justify-content: center;
+
 }
 
 div.speaker{
@@ -113,6 +115,8 @@ div.speaker{
   display: grid;
   grid-template-columns: repeat(1, 1fr);
   overflow: hidden;
+  justify-content: center;
+
 }
 
 div.speaker-name{
