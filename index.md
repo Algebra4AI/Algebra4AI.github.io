@@ -102,6 +102,7 @@ TBD
 </div>
 
 
+---
 
 ## Title: C*-algebra for machine learning
 
@@ -111,28 +112,19 @@ TBD
 
 ---
 
-
-
-## Title: Algebraic Structures in Representation Learning and Reinforcement Learning
-
-
-**Abstract:** This tutorial explores how tools from **category theory** provide powerful abstractions for understanding and designing machine learning systems. We begin with an introduction to basic category-theoretic concepts and diagrammatic reasoning, building intuition for how structure and compositionality emerge in machine learning. We then introduce **endofunctor algebras** and their **homomorphisms** as tools for capturing structure in learning tasks. Next, we show how **universal constructions** can formalize goals in _representation learning_, such as disentanglement and invariance. Finally, we use **recursive structures** to model the generation and aggregation of rewards in _reinforcement learning_, enabling more flexible control of agent behavior. The tutorial aims to bridge abstract mathematical tools and concrete machine learning challenges, offering a unified language for modularity, generalization, and interpretability.
-
-
-**Speaker Bio:** [**Yivan Zhang**](https://yivan.xyz) is an assistant professor at the University of Tokyo and a visiting scientist at the RIKEN Center for Advanced Intelligence Project (AIP). He received his Ph.D. in computer science from the University of Tokyo in 2024. His research applies **algebra, logic, and category theory** to develop theoretical foundations and practical algorithms for complex machine learning problems. His recent work explores applications of algebraic structures such as _monoidal products_, _algebra homomorphisms_, and _recursive coalgebras_ in disentangled representation learning and value-based reinforcement learning.
-
----
-
-
-
-
 ## Title: Lie groups and Distributions in Machine Learning
+
 **Abstract:**  We introduce basics of Lie Groups, Statistical Manifolds to introduce how they can be used to learn parameter distributions on manifolds. On top of a specific application of Lie group methods, we will also give the general philosophy and the intuition behind using such mathematical tools so that the participants can use them in their own work. 
 
 **Speaker Bio:** [**Eren Mehmet Kıral**](https://ekiral.github.io) received his Ph.D. in mathematics from Brown University, specializing in analytic number theory, particularly the distribution of prime numbers via the Riemann zeta function and related analytic techniques. He has taught university-level courses at Brown and Texas A&M University on subjects including calculus, linear algebra, and cryptography. He also regularly teaches week-long crash courses at the Mathematics Village in İzmir, Turkey. A shorter tutorial on cryptography he gave at RIKEN is available at: https://github.com/ekiral/cryptography. As a RIKEN Special Postdoctoral Researcher (2020--2023), his research expanded into machine learning, with a focus on incorporating Lie group symmetries into learning algorithms. His work “Lie Group Bayesian Learning Rule” (AISTATS 2023) explores learning distributions on parameter spaces via Lie group actions. He is currently a postdoctoral researcher at Keio University.
 
 ---
 
+## Title: Algebraic Structures in Representation Learning and Reinforcement Learning
+
+**Abstract:** This tutorial explores how tools from **category theory** provide powerful abstractions for understanding and designing machine learning systems. We begin with an introduction to basic category-theoretic concepts and diagrammatic reasoning, building intuition for how structure and compositionality emerge in machine learning. We then introduce **endofunctor algebras** and their **homomorphisms** as tools for capturing structure in learning tasks. Next, we show how **universal constructions** can formalize goals in _representation learning_, such as disentanglement and invariance. Finally, we use **recursive structures** to model the generation and aggregation of rewards in _reinforcement learning_, enabling more flexible control of agent behavior. The tutorial aims to bridge abstract mathematical tools and concrete machine learning challenges, offering a unified language for modularity, generalization, and interpretability.
+
+**Speaker Bio:** [**Yivan Zhang**](https://yivan.xyz) is an assistant professor at the University of Tokyo and a visiting scientist at the RIKEN Center for Advanced Intelligence Project (AIP). He received his Ph.D. in computer science from the University of Tokyo in 2024. His research applies **algebra, logic, and category theory** to develop theoretical foundations and practical algorithms for complex machine learning problems. His recent work explores applications of algebraic structures such as _monoidal products_, _algebra homomorphisms_, and _recursive coalgebras_ in disentangled representation learning and value-based reinforcement learning.
 
 ---
 
