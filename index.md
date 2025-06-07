@@ -22,6 +22,32 @@ At the end of it, the audience will learn about the state-of-the-art in represen
 
 This tutorial explores how advanced algebraic structures—such as C*-algebras, Lie groups, category theory, and tensor networks—can enhance machine learning by improving model efficiency, interpretability, and generalization. Moving beyond standard linear algebra, we present operator-algebraic tools for analyzing structured data, symmetry-based methods for learning distributions on manifolds, categorical frameworks for representation learning and reinforcement learning, and tensor networks for efficient computation. Designed for AI researchers and practitioners with a solid foundation in linear algebra and ML, the tutorial combines theoretical insights with practical applications, covering recent developments across kernel methods, neural networks, probabilistic modeling, and quantum AI.
 
+# Agenda
+- **Introduction: Why Algebra in AI?** `(Speaker: Chao, 20 min)`
+  - Motivation: The role of algebra in modern AI
+  - Overview of algebraic structures and their impact on ML
+
+---
+
+- **\(C^*\)-Algebraic Machine Learning** `(Speaker: Yuka, 50 min)`
+  - Basics of \(C^*\)-algebra
+  - \(C^*\)-algebra and kernel methods
+  - \(C^*\)-algebra and neural networks
+
+---
+
+- **Lie Groups and Distributions** `(Speaker: Mehmet, 50 min)`
+  - Lie group actions on parameter spaces
+  - Families of distributions with group symmetries
+  - Learning via group representations
+
+---
+
+- **Category Theory in Machine Learning** `(Speaker: Yivan, 50 min)`
+  - Basic category theory and diagrammatic reasoning
+  - F-algebras and homomorphisms in machine learning
+  - Universal constructions in representation learning
+  - Recursive structures in reinforcement learning
 <!-- <b>Prerequisite knowledge.</b>   -->
 # Prerequisite knowledge 
 
