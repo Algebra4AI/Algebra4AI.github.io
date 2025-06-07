@@ -27,21 +27,18 @@ This tutorial explores how advanced algebraic structures—such as C*-algebras, 
   - Motivation: The role of algebra in modern AI
   - Overview of algebraic structures and their impact on ML
 
----
 
 - **\(C^*\)-Algebraic Machine Learning** `(Speaker: Yuka, 50 min)`
   - Basics of \(C^*\)-algebra
   - \(C^*\)-algebra and kernel methods
   - \(C^*\)-algebra and neural networks
 
----
 
 - **Lie Groups and Distributions** `(Speaker: Mehmet, 50 min)`
   - Lie group actions on parameter spaces
   - Families of distributions with group symmetries
   - Learning via group representations
 
----
 
 - **Category Theory in Machine Learning** `(Speaker: Yivan, 50 min)`
   - Basic category theory and diagrammatic reasoning
@@ -49,6 +46,7 @@ This tutorial explores how advanced algebraic structures—such as C*-algebras, 
   - Universal constructions in representation learning
   - Recursive structures in reinforcement learning
 <!-- <b>Prerequisite knowledge.</b>   -->
+
 # Prerequisite knowledge 
 
 This tutorial targets junior AI/ML researchers (particularly students) and practitioners interested in algebraic foundations of AI. Basic background in linear algebra is recommended. No prior knowledge of abstract algebra, topology, or representation theory is required.
