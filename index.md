@@ -86,7 +86,6 @@ TBD
 **Speaker Bio:** [**Yuka Hashimoto**](https://www.rd.ntt/e/organization/researcher/special/s_083.html) is a Distinguished Researcher at Nippon Telegraph and Telephone Corporation (NTT), Tokyo, Japan. Additionally, she holds a position as a Visiting Scientist at RIKEN Center for Advanced Intelligence Project (AIP) and Visiting Associate Professor at Kanazawa University. She obtained her Ph.D. in science in March 2022.
 Her research interests lie in the intersection of mathematical theory, particularly operator and operator algebra theories, with machine learning methods such as kernel methods and neural networks.
 She recentry published a position paper that explores the applicability of C*-algebra to machine learning:
- - _C*-Algebraic Machine Learning --- Moving in a New Direction_ (Hasihmoto, Ikeda, and Kadri, ICML 2024)
 
 ---
 
@@ -102,10 +101,7 @@ The tutorial aims to bridge abstract mathematical tools and concrete machine lea
 
 **Speaker Bio:** [**Yivan Zhang**](https://yivan.xyz) is an assistant professor at the University of Tokyo and a visiting scientist at the RIKEN Center for Advanced Intelligence Project (AIP). He received his Ph.D. in computer science from the University of Tokyo in 2024.
 
-His research applies **algebra, logic, and category theory** to develop theoretical foundations and practical algorithms for complex machine learning problems. His recent work explores applications of algebraic structures such as _monoidal products_, _algebra homomorphisms_, and _recursive coalgebras_ in disentangled representation learning and value-based reinforcement learning, including:
-- _A Category-theoretical Meta-analysis of Definitions of Disentanglement_ (Zhang & Sugiyama, ICML 2023)
-- _Enriching Disentanglement: From Logical Definitions to Quantitative Metrics_ (Zhang & Sugiyama, NeurIPS 2024)
-- _Recursive Reward Aggregation_ (Tang et al., RLC 2025)
+His research applies **algebra, logic, and category theory** to develop theoretical foundations and practical algorithms for complex machine learning problems. His recent work explores applications of algebraic structures such as _monoidal products_, _algebra homomorphisms_, and _recursive coalgebras_ in disentangled representation learning and value-based reinforcement learning.
 
 ---
 
