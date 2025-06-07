@@ -77,18 +77,7 @@ TBD
     </div>
 </div>
 
-<!-- <div id="speakers">
-    <div class="speaker">
-        <!-- <img class="avatar" src="https://loreloc.github.io/stxatic/propic.jpg"><br/> -->
-        <img class="avatar" src="https://www.rd.ntt/_assets/img/organization/researcher/special/s_083.jpg"><br/>
-        <div class="speaker-name">
-        <!-- <b><a href="https://www.rd.ntt/e/organization/researcher/special/s_083.html">Yuka Hashimoto</a></b></div> -->
-        <b>Yuka Hashimoto</b></div>
-        <div class="speaker-uni">
-        <i> NTT Corporation, RIKEN-AIP</i>
-        </div>
-    </div>
-</div> -->
+
 
 ## Title: C*-algebra for machine learning
 
@@ -101,17 +90,7 @@ She recentry published a position paper that explores the applicability of C*-al
 
 ---
 
-<!-- <div id="speakers">
-    <div class="speaker">
-        <img class="avatar" src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=Q7S9kh4AAAAJ&citpid=1"><br/>
-        <div class="speaker-name">
-        <!-- <b><a href="https://april-tools.github.io/">Yivan Zhang</a></b></div> -->
-        <b>Yivan Zhang</b></div>
-        <div class="speaker-uni">
-        <i> RIKEN-AIP</i>
-        </div>
-    </div>
-</div> -->
+
 
 ## Title: Algebraic Structures in Representation Learning and Reinforcement Learning
 
@@ -131,17 +110,7 @@ His research applies **algebra, logic, and category theory** to develop theoreti
 ---
 
 
-<!-- <div id="speakers">
-    <div class="speaker">
-        <img class="avatar" src="https://ekiral.github.io/mehmetMoma.jpg"><br/>
-        <div class="speaker-name">
-        <!-- <b><a href="https://april-tools.github.io/">Eren Mehmet Kiralt</a></b></div> -->
-        <b>Eren Mehmet Kiral</b></div>
-        <div class="speaker-uni">
-        <i> Keio University, RIKEN-AIP</i>
-        </div>
-    </div>
-</div> -->
+
 
 ## Title: Lie groups and Distributions in Machine Learning
 **Abstract:**  We introduce basics of Lie Groups, Statistical Manifolds to introduce how they can be used to learn parameter distributions on manifolds. On top of a specific application of Lie group methods, we will also give the general philosophy and the intuition behind using such mathematical tools so that the participants can use them in their own work. 
@@ -151,17 +120,7 @@ BIO: I think the bio could be the same as in the application:
 
 ---
 
- <!-- <div id="speakers">
-    <div class="speaker">
-        <img class="avatar" src="https://chaoliatriken.github.io/images/chaoli.jpg"><br/>
-        <div class="speaker-name">
-        <!-- <b><a href="https://april-tools.github.io/">Chao Li</a></b></div> -->
-        <b>Chao Li</b></div>
-        <div class="speaker-uni">
-        <i> RIKEN-AIP</i>
-        </div>
-    </div>
-</div> -->
+ 
 
 ---
 
