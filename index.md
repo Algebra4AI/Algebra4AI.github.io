@@ -128,7 +128,7 @@ BIO: I think the bio could be the same as in the application:
 
 # Recommended reading
 
-- Hashimoto Y, Ikeda M, Kadri H. Position: $ C^* $-Algebraic Machine Learning $-$ Moving in a New Direction[C]//Forty-first International Conference on Machine Learning. 2024.
+- Hashimoto Y, Ikeda M, Kadri H. Position: C* -Algebraic Machine Learning - Moving in a New Direction[C]//Forty-first International Conference on Machine Learning. 2024.
 - Zhang Y, Sugiyama M. A Category-theoretical Meta-analysis of Definitions of Disentanglement[C]//International Conference on Machine Learning. PMLR, 2023: 41596-41612.
 - Zhang Y, Sugiyama M. Enriching disentanglement: From logical definitions to quantitative metrics[J]. Advances in Neural Information Processing Systems, 2024, 37: 71900-71961.
 - Tang Y, Zhang Y, Ackermann J, et al. Recursive Reward Aggregation[C]//Reinforcement Learning Conference.
