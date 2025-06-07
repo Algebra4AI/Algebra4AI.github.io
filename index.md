@@ -69,7 +69,7 @@ TBD
         <!-- <b><a href="https://www.rd.ntt/e/organization/researcher/special/s_083.html">Yuka Hashimoto</a></b></div> -->
         <b>Yuka Hashimoto</b></div>
         <div class="speaker-uni">
-        <i> NTT Corporation, RIKEN-AIP</i>
+        <i> NTT, RIKEN-AIP</i>
         </div>
     </div>
     <div class="speaker">
