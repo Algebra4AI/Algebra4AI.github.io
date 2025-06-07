@@ -28,10 +28,10 @@ This tutorial explores how advanced algebraic structures—such as C*-algebras, 
   - Overview of algebraic structures and their impact on ML
 
 
-- **\(C^*\)-Algebraic Machine Learning** `(Speaker: Yuka, 50 min)`
-  - Basics of \(C^*\)-algebra
-  - \(C^*\)-algebra and kernel methods
-  - \(C^*\)-algebra and neural networks
+- **C*-Algebraic Machine Learning** `(Speaker: Yuka, 50 min)`
+  - Basics of C*-algebra
+  - C*-algebra and kernel methods
+  - C*-algebra and neural networks
 
 
 - **Lie Groups and Distributions** `(Speaker: Mehmet, 50 min)`
