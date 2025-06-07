@@ -106,8 +106,6 @@ div.organizer-uni{
   grid-template-columns: repeat(4, 1fr);
   grid-column-gap: 50px;
   margin-bottom: 40px;
-  justify-content: center;
-
 }
 
 div.speaker{
@@ -115,8 +113,6 @@ div.speaker{
   display: grid;
   grid-template-columns: repeat(1, 1fr);
   overflow: hidden;
-  justify-content: center;
-
 }
 
 div.speaker-name{
@@ -134,7 +130,6 @@ div.speaker-uni{
 }
 
 img.avatar{
-  display: flex;
   width: 120px;
   height: 120px;
   border-radius: 50%;
@@ -143,7 +138,7 @@ img.avatar{
   -o-border-radius: 50%;
   -ms-border-radius: 50%;
   object-fit: cover;
-  justify-content: center;
+  margin: 0 auto;
 }
 
 @media only screen and (max-width: 720px) {
