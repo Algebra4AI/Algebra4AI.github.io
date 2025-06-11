@@ -63,7 +63,7 @@ You can find the slides of the tutorial here.
 <!-- You can find the slides of the tutorial <a href="files/slides.pdf">here</a>. -->
 
 <!-- # Speakers -->
-# Presentations and Speaker Biographies
+# Speakers and presentation details
 
 <div id="speakers">
     <div class="speaker">
@@ -127,15 +127,6 @@ You can find the slides of the tutorial here.
 **Biography:** Eren Mehmet Kıral received his Ph.D. in mathematics from Brown University, specializing in analytic number theory, particularly the distribution of prime numbers via the Riemann zeta function and related analytic techniques. He has taught university-level courses at Brown and Texas A&M University on subjects including calculus, linear algebra, and cryptography. He also regularly teaches week-long crash courses at the Mathematics Village in İzmir, Turkey. A shorter tutorial on cryptography he gave at RIKEN is available at: https://github.com/ekiral/cryptography. As a RIKEN Special Postdoctoral Researcher (2020--2023), his research expanded into machine learning, with a focus on incorporating Lie group symmetries into learning algorithms. His work “Lie Group Bayesian Learning Rule” (AISTATS 2023) explores learning distributions on parameter spaces via Lie group actions. He is currently a postdoctoral researcher at Keio University.
 
 ---
-## Title: Tensor Algebra in Machine Learning: Efficient Modeling from Structure to Computation
-
-**Speaker:** [**Chao Li**](https://chaoliatriken.github.io/)
-
-**Abstract:** This session introduces tensor algebra and tensor networks as powerful tools for scalable and structured machine learning. We cover core concepts in tensor decomposition and network architectures (e.g., MPS, TTN), emphasizing low-rank modeling for efficient computation and data representation. Applications span quantum machine learning and foundation models, where tensor methods enable compact, expressive architectures with improved generalization. The tutorial blends theoretical foundations with practical insights, equipping participants to integrate tensor-based approaches into modern AI systems.
-
-**Biography:** Chao Li is a research scientist at the RIKEN Center for Advanced Intelligence Project (AIP), holding an indefinite-term position in the Tensor Learning Team. He received his Ph.D. in Communication Engineering from Harbin Engineering University in 2017. His research focuses on tensor network methods, low-rank modeling, and quantum-inspired machine learning, with applications in efficient representation, structure search, and probabilistic inference. He has published many papers on tensor networks at top venues including ICML, NeurIPS, ICLR, CVPR, AAAI, and AISTATS, and has been invited to give keynote and tutorial talks on tensor methods at several international workshops. Chao currently teaches “Tensor Networks in Machine Learning” as an adjunct lecturer at the University of Tokyo and has led multiple national research projects in Japan. 
-
----
 
 ## Title: Algebraic Structures in Representation Learning and Reinforcement Learning
 
@@ -145,6 +136,14 @@ You can find the slides of the tutorial here.
 
 **Biography:** Yivan Zhang is an assistant professor at the University of Tokyo and a visiting scientist at the RIKEN Center for Advanced Intelligence Project (AIP). He received his Ph.D. in computer science from the University of Tokyo in 2024. His research applies **algebra, logic, and category theory** to develop theoretical foundations and practical algorithms for complex machine learning problems. His recent work explores applications of algebraic structures such as _monoidal products_, _algebra homomorphisms_, and _recursive coalgebras_ in disentangled representation learning and value-based reinforcement learning.
 
+---
+## Title: Tensor Algebra in Machine Learning: Efficient Modeling from Structure to Computation
+
+**Speaker:** [**Chao Li**](https://chaoliatriken.github.io/)
+
+**Abstract:** This session introduces tensor algebra and tensor networks as powerful tools for scalable and structured machine learning. We cover core concepts in tensor decomposition and network architectures (e.g., MPS, TTN), emphasizing low-rank modeling for efficient computation and data representation. Applications span quantum machine learning and foundation models, where tensor methods enable compact, expressive architectures with improved generalization. The tutorial blends theoretical foundations with practical insights, equipping participants to integrate tensor-based approaches into modern AI systems.
+
+**Biography:** Chao Li is a research scientist at the RIKEN Center for Advanced Intelligence Project (AIP), holding an indefinite-term position in the Tensor Learning Team. He received his Ph.D. in Communication Engineering from Harbin Engineering University in 2017. His research focuses on tensor network methods, low-rank modeling, and quantum-inspired machine learning, with applications in efficient representation, structure search, and probabilistic inference. He has published many papers on tensor networks at top venues including ICML, NeurIPS, ICLR, CVPR, AAAI, and AISTATS, and has been invited to give keynote and tutorial talks on tensor methods at several international workshops. Chao currently teaches “Tensor Networks in Machine Learning” as an adjunct lecturer at the University of Tokyo and has led multiple national research projects in Japan. 
 ---
 
 
