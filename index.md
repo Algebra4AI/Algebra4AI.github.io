@@ -46,11 +46,11 @@ This tutorial explores how advanced algebraic structures—such as C*-algebras, 
   - Universal constructions in representation learning
   - Recursive structures in reinforcement learning
 
-- **Tensor Algebra in Machine Learning** *(Speaker: Chao, 40 min)*  
+- **Tensor Algebra in Machine Learning** `(Speaker: Chao, 40 min)`
 Covering the use of tensor algebra for scalable modeling, with emphasis on low-rank structure, efficient learning, and quantum-inspired methods.
 
- - Basic tensor algebra and tensor networks  
- - Applications in quantum ML and foundation models
+  - Basic tensor algebra and tensor networks  
+  - Applications in quantum ML and foundation models
 <!-- <b>Prerequisite knowledge.</b>   -->
 
 # Prerequisite knowledge 
