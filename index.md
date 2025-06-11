@@ -150,11 +150,12 @@ You can find the slides of the tutorial here.
 
 # Recommended reading
 
-- Hashimoto Y, Ikeda M, Kadri H. Position: C* -Algebraic Machine Learning - Moving in a New Direction[C]//Forty-first International Conference on Machine Learning. 2024.
-- Zhang Y, Sugiyama M. A Category-theoretical Meta-analysis of Definitions of Disentanglement[C]//International Conference on Machine Learning. PMLR, 2023: 41596-41612.
-- Zhang Y, Sugiyama M. Enriching disentanglement: From logical definitions to quantitative metrics[J]. Advances in Neural Information Processing Systems, 2024, 37: 71900-71961.
-- Tang Y, Zhang Y, Ackermann J, et al. Recursive Reward Aggregation[C]//Reinforcement Learning Conference.
-- Kıral E M. Bayesian Learning with Lie Groups[J]. Statistical Theories and Machine Learning Using Geometric Methods, 17.
+- Hashimoto, Yuka, Masahiro Ikeda, and Hachem Kadri. "Position: C* -Algebraic Machine Learning - Moving in a New Direction." *Forty-first International Conference on Machine Learning.* 2024.
+- Zhang, Yivan, and Masashi Sugiyama. "A Category-theoretical Meta-analysis of Definitions of Disentanglement." *International Conference on Machine Learning.* PMLR, 2023.
+- Zhang, Yivan, and Masashi Sugiyama. "Enriching disentanglement: From logical definitions to quantitative metrics." *Advances in Neural Information Processing Systems* 37 (2024): 71900-71961.
+- Tang, Yuting, et al. "Recursive Reward Aggregation." *Reinforcement Learning Conference.*
+- Kıral, Eren Mehmet. "Bayesian Learning with Lie Groups." *Statistical Theories and Machine Learning Using Geometric Methods:* 17.
+- Kolda, Tamara G., and Brett W. Bader. "Tensor decompositions and applications." *SIAM review* 51.3 (2009): 455-500.
 
 
 <!-- 
