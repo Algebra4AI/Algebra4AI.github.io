@@ -59,7 +59,7 @@ This tutorial targets junior AI/ML researchers (particularly students) and pract
 
 # Materials
 
-TBD
+You can find the slides of the tutorial here.
 <!-- You can find the slides of the tutorial <a href="files/slides.pdf">here</a>. -->
 
 <!-- # Speakers -->
