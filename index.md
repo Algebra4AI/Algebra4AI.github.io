@@ -123,6 +123,8 @@ You can find the slides of the tutorial here.
 
 **Biography:** Chao Li is a research scientist at the RIKEN Center for Advanced Intelligence Project (AIP), holding an indefinite-term position in the Tensor Learning Team. He received his Ph.D. in Communication Engineering from Harbin Engineering University in 2017. His research focuses on tensor network methods, low-rank modeling, and quantum-inspired machine learning, with applications in efficient representation, structure search, and probabilistic inference. He has published many papers on tensor networks at top venues including ICML, NeurIPS, ICLR, CVPR, AAAI, and AISTATS, and has been invited to give keynote and tutorial talks on tensor methods at several international workshops. Chao currently teaches “Tensor Networks in Machine Learning” as an adjunct lecturer at the University of Tokyo and has led multiple national research projects in Japan. 
 
+---
+
 # Recommended reading
 
 - Hashimoto, Yuka, Masahiro Ikeda, and Hachem Kadri. "Position: C* -Algebraic Machine Learning - Moving in a New Direction." *Forty-first International Conference on Machine Learning.* 2024.
