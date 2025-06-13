@@ -123,8 +123,6 @@ You can find the slides of the tutorial here.
 
 **Biography:** Chao Li is a research scientist at the RIKEN Center for Advanced Intelligence Project (AIP), holding an indefinite-term position in the Tensor Learning Team. He received his Ph.D. in Communication Engineering from Harbin Engineering University in 2017. His research focuses on tensor network methods, low-rank modeling, and quantum-inspired machine learning, with applications in efficient representation, structure search, and probabilistic inference. He has published many papers on tensor networks at top venues including ICML, NeurIPS, ICLR, CVPR, AAAI, and AISTATS, and has been invited to give keynote and tutorial talks on tensor methods at several international workshops. Chao currently teaches “Tensor Networks in Machine Learning” as an adjunct lecturer at the University of Tokyo and has led multiple national research projects in Japan. 
 
----
-
 # Recommended reading
 
 - Hashimoto, Yuka, Masahiro Ikeda, and Hachem Kadri. "Position: C* -Algebraic Machine Learning - Moving in a New Direction." *Forty-first International Conference on Machine Learning.* 2024.
@@ -134,17 +132,15 @@ You can find the slides of the tutorial here.
 - Kıral, Eren Mehmet. "Bayesian Learning with Lie Groups." *Statistical Theories and Machine Learning Using Geometric Methods:* 17.
 - Kolda, Tamara G., and Brett W. Bader. "Tensor decompositions and applications." *SIAM review* 51.3 (2009): 455-500.
 
----
-
 # Further reading
 
-### Category theory
+## Category theory
 
 - \[textbook\] Mac Lane, Saunders. _Categories for the working mathematician_. Vol. 5. Springer Science & Business Media, 1998.
 - \[textbook\] Awodey, Steve. _Category theory_. Vol. 52. Oxford University Press, 2010.
 - \[blog\] Tai-Danae Bradley. Illustrative blog articles in [Math3ma](https://www.math3ma.com/categories/category-theory).
 
-### Applied category theory in machine learning
+## Applied category theory in machine learning
 
 - \[book\] Fong, Brendan, and David I. Spivak. "[An Invitation to Applied Category Theory: Seven Sketches in Compositionality](https://arxiv.org/abs/1803.05316)". Cambridge University Press, 2019.
 - \[review paper\] Shiebler, Dan, Bruno Gavranović, and Paul Wilson. "[Category theory in machine learning](https://arxiv.org/abs/2106.07032)." 2021.
