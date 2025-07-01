@@ -7,7 +7,7 @@ title: Home
 <!-- <b>When and where?</b>  -->
 # When and where?
 
-TBD
+Schedule: August 16th AM – Full morning
 
 <!-- This tutorial will <b><i>bridge the two often separate communities of tensor factorizations and circuit representations</i></b>, which investigate concepts that are intimately related.
 
