@@ -8,7 +8,7 @@ title: Home
 
 Schedule: August 16th AM – Full morning
 
-Venue: Palais des congrès
+Venue: [Palais des congrès](https://congresmtl.com/en/)
 
 # Outline
 
