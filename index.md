@@ -16,7 +16,7 @@ This tutorial explores how advanced algebraic structures—such as C*-algebras, 
 
 # Agenda
 
-- **Introduction: Why Algebra in AI?** `(Speaker: Chao, 20 min)`
+- **Opening** `(Speaker: Yuka, 5 min)`
   - Motivation: The role of algebra in modern AI
   - Overview of algebraic structures and their impact on ML
 
@@ -36,9 +36,10 @@ This tutorial explores how advanced algebraic structures—such as C*-algebras, 
   - Universal constructions in representation learning
   - Recursive structures in reinforcement learning
 
-- **Tensor Algebra in Machine Learning** `(Speaker: Chao, 40 min)`
-  - Basic tensor algebra and tensor networks  
-  - Applications in quantum(-inspired) ML
+- **Tensor Algebra in Machine Learning** `(Speaker: Chao, 50 min)`
+  - Basic tensor algebra and tensor networks
+  - Tensor networks in learning models
+  - Applications: Fine tuning, prompting learning…
 
 # Prerequisite knowledge 
 
