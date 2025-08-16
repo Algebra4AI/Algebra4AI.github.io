@@ -48,6 +48,7 @@ This tutorial targets junior AI/ML researchers (particularly students) and pract
 # Materials
 
 You can find the slides of the tutorial here.
+
 Slides for [Learning Distributions via Lie Groups](./files/IJCAI_slides_LieGroups.pdf)
 
 # Speakers and presentation details
@@ -155,4 +156,4 @@ Slides for [Learning Distributions via Lie Groups](./files/IJCAI_slides_LieGroup
 - \[lecture series\] [Categories for AI](https://cats.for.ai/)
 
 ## Lie Groups
-- \[blog posts\] [Blog posts](https://ekiral/github.io/blog/blog-index.html) where the topics in the talk are expanded upon.
+- \[blog posts\] [Blog posts](https://ekiral.github.io/blog/blog-index.html) where the topics in the talk are expanded upon.
