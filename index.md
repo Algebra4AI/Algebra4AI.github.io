@@ -48,6 +48,7 @@ This tutorial targets junior AI/ML researchers (particularly students) and pract
 # Materials
 
 You can find the slides of the tutorial here.
+Slides for [Learning Distributions via Lie Groups](./files/IJCAI_slides_LieGroups.pdf)
 
 # Speakers and presentation details
 
@@ -152,3 +153,6 @@ You can find the slides of the tutorial here.
 - \[position paper\] Gavranović, Bruno, et al. "[Position: Categorical Deep Learning is an Algebraic Theory of All Architectures](https://proceedings.mlr.press/v235/gavranovic24a.html)." *International Conference on Machine Learning.* 2024.
 - \[GitHub repository\] [Category Theory ∩ Machine Learning](https://github.com/bgavran/Category_Theory_Machine_Learning)
 - \[lecture series\] [Categories for AI](https://cats.for.ai/)
+
+## Lie Groups
+- \[blog posts\] [Blog posts](https://ekiral/github.io/blog/blog-index.html) where the topics in the talk are expanded upon.
